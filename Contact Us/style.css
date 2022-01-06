@@ -37,7 +37,7 @@ textarea {
 }
 
 .contact-form {
-  background-color: #2b1055;
+  background-color: #2b07fa;
   position: relative;
 }
 
@@ -230,7 +230,7 @@ textarea.input {
 }
 
 .social-media p {
-  color: #333;
+  color: rgb(8, 109, 156);
 }
 
 .social-icons {
@@ -242,7 +242,7 @@ textarea.input {
   width: 35px;
   height: 35px;
   border-radius: 5px;
-  background: linear-gradient(45deg, #7597de, #2b1055);
+  background: linear-gradient(45deg, #7597de, #3d05d6);
   color: #fff;
   text-align: center;
   line-height: 35px;
@@ -271,7 +271,7 @@ textarea.input {
   width: 500px;
   height: 500px;
   border-radius: 50%;
-  background: linear-gradient(to bottom, #7597de, #2b1055);
+  background: linear-gradient(to bottom, #7597de, #011bff);
   bottom: 50%;
   right: 50%;
   transform: translate(-40%, 38%);
